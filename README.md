@@ -1,4 +1,4 @@
-# Algorithms
+# Description
 PYhop is not used in the above algorithms.
 The algorithms are implemented, considering a Robot as an actor, on a 3x3 grid.
 Note the the horizontal axis is taken as the Y-axis and the vertical is taken as X-axis.
